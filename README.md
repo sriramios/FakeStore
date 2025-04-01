@@ -12,44 +12,22 @@ FakeStore is a React Native e-commerce application that fetches and displays pro
 - **Axios** - API integration
 - **Styled Components** - Customizable UI styling
 - **React Native Vector Icons** - Rich iconography
-- **Redux Persist** - Offline data persistence
-- **React Native FastImage** - Optimized image loading
 
 ## 🎯 Features
 - 📦 Browse products from FakeStore API
-- 🔍 Search & filter functionality
 - 🛒 Add/remove items from cart
-- 🌙 Dark mode support
-- 🔄 Pull to refresh & pagination
-- 🚀 Optimized performance & smooth animations
 
 ## 🚀 Installation & Setup
 
 ### Prerequisites
 - Node.js (>= 16)
-- React Native CLI or Expo
+- React Native CLI 
 - Android Studio / Xcode (for running on a simulator or device)
-
-### Steps
-```sh
-# Clone the repository
-git clone https://github.com/sriramios/FakeStore.git
-cd FakeStore
-
-# Install dependencies
-yarn install  # or npm install
-
-# Run on Android
-yarn android  # or npm run android
-
-# Run on iOS (Mac only)
-yarn ios  # or npm run ios
-```
 
 ## 📷 Screenshots
 | Home Screen | Product Details | Cart |
 |------------|----------------|------|
-
+https://github.com/sriramios/FakeStore/blob/main/fakeStoreApp.gif
 
 ## 📖 Project Structure
 ```
