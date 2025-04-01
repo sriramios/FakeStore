@@ -1,6 +1,7 @@
 # FakeStore - React Native Application
 
-![FakeStore App](https://fakestoreapi.com)
+## 📷 Screenshots
+![FakeStore App](https://github.com/sriramios/FakeStore/blob/main/fakeStoreApp.gif)
 
 ## 📌 Overview
 FakeStore is a React Native e-commerce application that fetches and displays products from FakeStore API. It utilizes **Redux Toolkit** for state management, ensuring scalability and maintainability. The app provides a smooth shopping experience with modern UI components and efficient API handling.
@@ -24,10 +25,6 @@ FakeStore is a React Native e-commerce application that fetches and displays pro
 - React Native CLI 
 - Android Studio / Xcode (for running on a simulator or device)
 
-## 📷 Screenshots
-| Home Screen | Product Details | Cart |
-|------------|----------------|------|
-https://github.com/sriramios/FakeStore/blob/main/fakeStoreApp.gif
 
 ## 📖 Project Structure
 ```
